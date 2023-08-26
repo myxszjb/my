@@ -78,8 +78,8 @@
         "cron": "0 15 10 ? * * ",
               "env": [
         {
-            "envName": "meituanCookie", // 环境变量 比如你脚本中是 process.env.xjhd 
-            "envHint": "多个用@隔开" // 变量描述
+            "envName": "meituanCookie",
+            "envHint": "多个用@隔开"
         }
     ],
         "scope": "com.sankuai.meituan"
